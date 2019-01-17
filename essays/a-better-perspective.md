@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui medium top floated image" src="../images/jsisfun.jpg">
+<img class="ui medium top image" src="../images/jsisfun.jpg">
 
 ## Old Perspectives
 
