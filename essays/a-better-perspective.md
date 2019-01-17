@@ -10,6 +10,7 @@ labels:
 ---
 
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+
 ## Old Perspectives
 
 Ever since I started studying Computer Science, I never really knew what exactly I wanted to do when I acquired my BS Degree. The only thing I was sure of was that knowing how to program would be a great skill in the near future and that was a good enough reason for me to pursue my degree in CS. I've learned a lot over time but nothing really seemed to help me decide what I would pursue as my career. But recently I found an interest in web development and it has drastically changed my persepctives about programming. given me a motivation that I didn't know I needed
