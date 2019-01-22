@@ -13,7 +13,7 @@ labels:
 
 ## Old Perspectives
 
-Ever since I started studying Computer Science, I never really knew what exactly I wanted to do when I acquired my BS Degree. The only thing I was sure of was that knowing how to program would be a great skill in the near future and that was a good enough reason for me to pursue my degree in CS. I've learned a lot over time but nothing really seemed to help me decide what I would pursue as my career. But recently I found an interest in web development and it has drastically changed my persepctives about programming. given me a motivation that I didn't know I needed
+Ever since I started studying Computer Science, I never really knew what exactly I wanted to do when I acquired my BS Degree. The only thing I was sure of was that knowing how to program would be a great skill in the near future and that was a good enough reason for me to pursue my degree in CS. I've learned a lot over time but nothing really seemed to help me decide what I would pursue as my career. But recently I found an interest in web development and it has drastically changed my persepctives about programming.
 
 ## New Perspectives
 As I found out what I wanted to do professionally, I was given a motivation that I didn't know I needed. I can now say that I am enjoying myself as I learn more about Computer Science, and that enjoyment has confirmed that I had made the right decision in studying Computer Science. To add on, I found my motivation at the perfect time, for at the time I am writing this, I am learning Javascript, a language that is very important within web development. I have gained a new perspective on programming and am sure it will positively impact my learning in the future.
