@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: Don't Be Afraid of Asking Questions
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-23
 labels:
-  - Engineering
+  - Software Engineering
+  - Learning
 ---
 
 <img class="ui large top image" src="../images/jsisfun.jpg">
