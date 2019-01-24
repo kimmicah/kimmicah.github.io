@@ -26,7 +26,7 @@ One of the most important things when asking a smart question is to put yourself
 
 For example, this <a href="https://stackoverflow.com/questions/54120862/does-the-c-standard-allow-for-an-uninitialized-bool-to-crash-a-program">question</a> can be seen as a smart question by the large amount of upvotes, positive response, and many high-quality answers. One of the very first responses start with "It's a great question" and I can agree for the author added a perfect amount of detail to the question, including background information as well as complementary code, which all contributes to making it a "great" question. In addition, the cleverness of the question itself has garnered a lot of attention and is also a huge factor in creating a smart question.
 
-The example is all about what a smart question should be and really should be the basis for all questions. Please take some time to read Raymond's (<a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questoins The Smart Way</a>) and learn how to ask smart questions.
+The example is all about what a smart question should be and really should be the basis for all questions. Please take some time to read Raymond's <a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questoins The Smart Way</a> and learn how to ask smart questions.
 
 ## Asking Smart Questions as a Software Engineer
 As you learn more as a software engineer, the amount of questions you have will undoubtedly grow, so it is very important to ask smart questions that will invoke high-quality answers. I will always ask questions, it's just a part of life, but knowing how to ask smart questions is a very useful skill which will help me become a smart software engineer.
