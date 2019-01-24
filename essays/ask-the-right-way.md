@@ -9,8 +9,6 @@ labels:
   - Learning
 ---
 
-# Ask the Right Way
-
 ## Asking Questions as a Software Engineer
 All my life I've been asking questions, but ever since I started studying Computer Science, asking questions have not only been different but a bit more difficult as well. I believe the main reason for this change is because in programming, there is usually never only one correct answer. This means that when you do ask a question as a software engineer, the answer you receive might be correct, but it might not be the answer you were looking for. However, in order to become a skilled software engineer (or any other job as a matter of fact), it is very important to ask questions, but how do we ask questions the "right way"? Fortunately, in "How To Ask Questions The Smart Way" by Eric Steven Raymond, we are informed of how to ask smart questions that invoke high-quality answers, which will guide me and all other future software engineers to succeed (<a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questoins The Smart Way</a>).
 
