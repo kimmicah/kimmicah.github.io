@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Scary Maze Game
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-04
