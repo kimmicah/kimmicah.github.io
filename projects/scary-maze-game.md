@@ -19,6 +19,7 @@ I recreated and added my own little twist to the Scary Maze Game in my ICS 111 c
 
 Within the project, there were two key core mechanics that established the foundation for the game.
 The first is the mechanics for the mouse/cursor, which was easily done with EZ Graphics.
+
 This is the code for the mouse mechanics:
 ```js
 static void mouseMechanics() {
@@ -32,6 +33,7 @@ static void mouseMechanics() {
 
 The other key mechanic within the game was to show the scary image and play the loud sound when the cursor touched the wall.
 Since I had to create multiple walls, I iterated through each wall's position to check if the cursor was touching a wall when the function was called. If it was touched, it would add the image and play the sound via EZ Graphics.
+
 This is the code for if the wall was touched:
 ```js
 static void isWallTouched() {
