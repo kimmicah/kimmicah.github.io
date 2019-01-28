@@ -17,7 +17,7 @@ summary: I recreated the Scary Maze Game for a project in my first ICS class.
 
 I recreated and added my own little twist to the Scary Maze Game in my ICS 111 class at the University of Hawai'i at Manoa. For those of you who do not know, the Scary Maze Game is a maze game where the user needs to navigate the cursor from one point to another without touching the walls. There are a few levels, each one harder than the previous, but what makes the game "scary" is that the user does not know that when the cursor touches the wall, a scary image will fill the entire screen and also play a loud sound in an attempt to scare the user, which is known as a jumpscare. My version of the game has moving obstacles which make the cursor grow bigger, making it harder to navigate throughout the maze.
 
-Within the project, there were two key core mechanics that established the foundation for the game.
+Within the project, there were two core mechanics that established the foundation for the game.
 The first is the mechanics for the mouse/cursor, which was easily done with EZ Graphics.
 
 This is the code for the mouse mechanics:
