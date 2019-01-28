@@ -14,39 +14,51 @@ summary: A project based on the mechanics of a roomba which I created in my firs
 
 <img class="ui huge middle image" src="../images/roombrah.png">
 
-I recreated and added my own little twist to the Scary Maze Game in my ICS 111 class at the University of Hawai'i at Manoa. For those of you who do not know, the Scary Maze Game is a maze game where the user needs to navigate the cursor from one point to another without touching the walls. There are a few levels, each one harder than the previous, but what makes the game "scary" is that the user does not know that when the cursor touches the wall, a scary image will fill the entire screen and also play a loud sound in an attempt to scare the user, which is known as a jumpscare. My version of the game has moving obstacles which make the cursor grow bigger, making it harder to navigate throughout the maze.
+I replicated the mechanics of a roomba vacuum cleaner for a project in my ICS 111 class at the University of Hawai'i at Manoa. For those of you who do not know, a roomba is a robotic vacuum cleaner that moves in a straight line until it hits an object/wall, where it then "bounces" into a different direction. The goal of the project is for the roomba to collect all the dust and then display an end screen when finished. I, however, based my project off Pokemon, where the roomba is a pokeball, and the dust particles to be collected are pokemon. 
 
-Within the project, there were two key core mechanics that established the foundation for the game.
-The first is the mechanics for the mouse/cursor, which was easily done with EZ Graphics.
+First, a text file will be scanned which will contain all the walls and pokemon(Diglett) to be collected. The pokeball will move diagonally around the map, bounce off the wall, and also leave a trail. Once all the Digletts are collected, the Hall of Fame screen will play.
 
-This is the code for the mouse mechanics:
+Within the project, there were two key mechanics that established the foundation of my project.
+
+The first is the mechanics for the movement of the pokeball. Unfortunately, the code for the mechanics of the pokeball movement is quite lengthy so will not be showing it.
+
+The second is to make the Diglett disappear when the pokeball touches it. First, it gets the position of the pokeball and then iterates through a for loop to check if the pokeball is touching the Diglett, and if it is, it will move the Diglett to a position where it can no longer be seen.
+
+This is the code to check if the Diglett has been touched:
 ```js
-static void mouseMechanics() {
-		// Get the mouseʻs X and Y position
-		clickX = EZInteraction.getXMouse();
-		clickY = EZInteraction.getYMouse();
-		// move the picture of my cursor to the position of clickX, clickY
-		cursor.translateTo(clickX, clickY);
-	}
-```
-
-The other key mechanic within the game was to show the scary image and play the loud sound when the cursor touched the wall.
-Since I had to create multiple walls, I iterated through each wall's position to check if the cursor was touching a wall when the function was called. If it was touched, it would add the image and play the sound via EZ Graphics.
-
-This is the code for if the wall was touched:
-```js
-static void isWallTouched() {
-		// if wall is touched by cursor, show scary image
-		for(int i = 0; i < 15; i++) {
-			if(walls[i].isPointInElement(clickX, clickY)) {
-				EZ.addImage("scarypopup.png", 700, 430);
-				EZ.addSound("scream.wav");
+public static void isDiglettCaught(EZImage pokeBall) { // function for when pokeball touches diglett
+		int xCoord = pokeBall.getXCenter();
+		int yCoord = pokeBall.getYCenter();
+		for(int i = 0; i < 7; i++) {
+			if(digletts[i].isPointInElement(xCoord, yCoord)) {
+				digletts[i].translateTo(0,0);
+				diglettCaught.play();
 			}
+
 		}
 	}
-}
+
 ```
+
+Another important mechanic is to play the Hall of Fame screen when all the Digletts are caught. First it gets the position of the pokeball and then checks if the final Diglett is touched by the pokeball. When the final Diglett is caught, it will show the Hall of Fame screen and also play the victory music via EZ Graphics.
+
+This is the code to play the end screen:
+```js
+public static void endGame(EZImage pokeBall) { // function for when last diglett is touched
+		int xCoord = pokeBall.getXCenter();
+		int yCoord = pokeBall.getYCenter();
+		if(digletts[7].isPointInElement(xCoord, yCoord)) {
+			digletts[7].translateTo(0,0);
+			EZImage hallOfFame = EZ.addImage("halloffame.png", 465, 250);
+			bgm.stop();
+			allDiglettCaught.play();
+			m++;
+		}
+	}
+
+```
+A video of my project in action can be seen <a href="https://www.youtube.com/watch?v=gKN1nsJKSAk">here</a>.
 
 The game was created using Java and <a href="http://www2.hawaii.edu/~dylank/ics111/">EZ Graphics</a>, which is a "multimedia library designed to make it easier for novice programmers to quickly build Java applications that incorporate graphics and sound". 
 
-In this project I gained experience with array lists, file reading/parsing, file writing, 2D arrays, inheritance, and private/public member variables/functions all within the scope of Java.
+In this project I gained experience with array lists, file reading/parsing, file writing, 2D arrays, and private/public member variables/functions all within the scope of Java. 
