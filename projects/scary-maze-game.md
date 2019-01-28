@@ -10,14 +10,13 @@ labels:
   - Java
   - Eclipse
  
-summary: I recreated The Scary Maze Game for our final project in my first ICS class.
+summary: I recreated the Scary Maze Game for my final project in my first ICS class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/scarymazegame.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
+I recreated and added my own little twist to the Scary Maze Game in my ICS 111 class at the University of Hawai'i at Manoa. The game was created using Java and (<a href="http://www2.hawaii.edu/~dylank/ics111/">EZ Graphics</a>), which is a "multimedia library designed to make it easier for novice programmers to quickly build Java applications that incorporate graphics and sound". 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with 
  
