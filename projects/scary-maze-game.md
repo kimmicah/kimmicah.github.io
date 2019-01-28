@@ -5,12 +5,9 @@ image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-12-04
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Java
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
