@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roombrah.png
+image: images/roombrah-square.png
 title: Roombrah
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A project based on the mechanics of a roomba which I created in my first ICS Class.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/roombrah.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
