@@ -9,7 +9,7 @@ date: 2017-10-25
 labels:
   - Java
   - Eclipse
-summary: A project based on the mechanics of a roomba vacuum cleaner that I created in my first ICS Class.
+summary: A project based on the mechanics of a roomba which I created in my first ICS Class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
