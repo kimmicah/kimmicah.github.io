@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Scary Maze Game
+title: Association for Computing Machinery at Manoa (ACM Manoa)
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Java
-  - Eclipse
-summary: My partner and I recreated The Scary Maze Game for our final project in my first ICS class.
+  - Computer Programming
+  - Community/Club
+summary: A member of ACM at University of Hawaii at Manoa.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
