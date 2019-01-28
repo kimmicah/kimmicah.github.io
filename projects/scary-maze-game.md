@@ -8,7 +8,9 @@ permalink: projects/vacay
 date: 2017-12-04
 labels:
   - Java
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Eclipse
+ 
+summary: I recreated The Scary Maze Game for our final project in my first ICS class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
