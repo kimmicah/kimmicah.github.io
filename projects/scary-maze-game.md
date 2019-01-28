@@ -48,7 +48,7 @@ static void isWallTouched() {
 }
 ```
 
-The game was created using Java and (<a href="http://www2.hawaii.edu/~dylank/ics111/">EZ Graphics</a>), which is a "multimedia library designed to make it easier for novice programmers to quickly build Java applications that incorporate graphics and sound". 
+The game was created using Java and <a href="http://www2.hawaii.edu/~dylank/ics111/">EZ Graphics</a>, which is a "multimedia library designed to make it easier for novice programmers to quickly build Java applications that incorporate graphics and sound". 
 
 In this project I gained experience with array lists, file reading/parsing, file writing, 2D arrays, inheritance, and private/public member variables/functions all within the scope of Java.
  
