@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Roombrah
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-10-25
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Eclipse
+summary: A project based on the mechanics of a roomba vacuum cleaner that I created in my first ICS Class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
