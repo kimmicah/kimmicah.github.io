@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui huge middle image" src="../images/jsisfun.jpg">
+<img class="ui huge middle image" src="../images/codingstandards.jpg">
 
 ## My Type of Satisfaction
 Ever since I was a kid, I've always found satisfation in following a certain structure and would try my best to stick to it at all costs. Even the smallest deviation from a set structure would be a large annoyance to me and would eventually lead to me making changes. Even as I write these essays, I am writing them all using a set layout, with no means of changing it up. If I had no choice but to change the formatting, I would change what I can, so there can at least be a consistency in my work. I find consistency to be extremely satisfying, and luckily, I have been able to utilize this aspect of mine to make many things in life more enjoyable. One of them being coding.
