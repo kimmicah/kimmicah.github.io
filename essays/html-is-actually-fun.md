@@ -19,6 +19,6 @@ Now you're probably wondering, "What point did he exactly reach?" This might sou
 To top it all off, I was actually planning on building and designing websites in the future, so I am very fortunate that HTML is quite enjoyable.
 
 ## Why Semantic UI?
-A little after I started learning HTML, I was introduced to a UI Framework called Semantic UI. 
+A little after I started learning HTML, I was introduced to a UI Framework called Semantic UI. Semantic UI is a framework that consists of various user-interface commands. At first, using Semantic UI over raw HTML seemed 
 
 ## Oh, That's Why
