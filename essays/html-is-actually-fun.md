@@ -25,3 +25,4 @@ A little after I started learning HTML, I was introduced to a UI Framework calle
 As I got more comfortable with Semantic UI, the rate at which I was finishing building websites was drastically increasing. Semantic UI is much more efficient when building complex websites, and knowing that I'll have to build more and more complex websites in the future, familiarizing myself with UI Frameworks such as Semantic UI is definitely important.
 
 Although I am still new to UI Frameworks, I know that they will be a huge factor in helping me build top-quality websites, which is why I will force myself to use them over raw HTML.
+
