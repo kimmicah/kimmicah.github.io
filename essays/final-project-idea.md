@@ -34,6 +34,6 @@ Mockup pages include:
 * Having the ability to look at historic data
 
 ## Idea Created By:
-Micah Kim
-Will Koch
-Kyle Okamoto
+* Micah Kim
+* Will Koch
+* Kyle Okamoto
