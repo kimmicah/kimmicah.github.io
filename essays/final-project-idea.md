@@ -24,9 +24,9 @@ Mockup pages include:
 * Suggestions Page
 
 ## Use case ideas
-* Casual user can look at the landing page (map) without setting up an account
-* New user can go to the landing page, log in, set up their profile, and view suggestions page
-* Existing user can go to the landing page, log in, modify their profile, and view suggestions page
+* Casual user looks at landing page (map) without setting up an account
+* New user goes to landing page, logs in, sets up their profile, and views suggestions page
+* Existing user goes to landing page, logs in, modifies their profile, and views suggestions page
 
 ## Beyond the basics
 * Allowing nearby parking lots to also add information to the map
