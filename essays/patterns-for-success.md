@@ -18,9 +18,9 @@ I can list tons of examples where patterns are beneficially used in everyday lif
 ## Design Patterns in Programming
 Similarly to patterns in math problems, design patterns are widely utilized by software engineers because it helps them to not only write code more efficiently, but also to break down extensive pieces of code in order to debug. The ICS Class that I am taking at the time of writing this has greatly helped me utilize design patterns to find relationships and interactions between certain aspects of code. Finding these parallel aspects within my code has helped me to prevent rewriting the same code over and over again.
 
-But be warned, recognizing patterns will only get you so far. Utilizing design patterns might help you simplify your solution, but it doesn't always mean it will give you the answer you are looking for. Meaning you will sometimes have to think outside of the box to create a custom design pattern with your prior knowledge to other design patterns to help you correctly implement your program. So, just make sure to not solely rely on design patterns. 
+But be warned, recognizing patterns will only get you so far. Utilizing design patterns might help you simplify your solution, but it doesn't always mean it will give you the answer you are looking for. Meaning you will sometimes have to think outside of the box to create a custom design pattern with your prior knowledge to other design patterns to help you correctly implement your program. 
 
-Use that brain of yours!
+So, just make sure to not solely rely on design patterns. Use that brain of yours!
 
 ## Utilizing Patterns = Success
 Patterns are all around us. At home or at school or at work, the majority of people have probably experienced patterns and have either intentionally or unintentionally utilized them to their advantage. Working efficiently is especially important in the workplace, so having knowledge of design patterns has definitely given me a boost of confidence for my future career. Understanding and utilizing patterns helps us work smarter and more efficiently, and also to have a better understanding of what "life" really is, which is why it is a monumental factor for one's success.
