@@ -11,9 +11,9 @@ labels:
 ---
 
 ## Patterns Are Everywhere
-Whether you have noticed or not, patterns are everywhere. Even the simplest of patterns, such as building blocks, can have a impact on childrens' lives because it teaches them about life in an "idiot-proof" manner. If you actually take the time to look around, you can see the shapes and colors that share a consistency that is almost scary. Without even recognizing these patterns, most people are able to make predictions that make everyday life easier. 
+Whether you have noticed or not, patterns are everywhere. Even the simplest of patterns, such as building blocks, can have an impact on childrens' lives because it teaches them about life in an "idiot-proof" manner. If you actually take the time to look around, you can see the patterns within shapes and colors and numbers that share a consistency that is almost scary. Without even recognizing these patterns, most people are able to make predictions that make everyday life easier. 
 
-I can list tons of examples where patterns are beneficially used in everyday life, but I will talk about one that is the best suited for the scope of this class and this essay. 
+I can list tons of examples where patterns are beneficially used in everyday life, but the one that is best suited for the scope of this class and this essay, are the patterns present in a school/learning environment. 
 
 ## Design Patterns in Programming
 This
