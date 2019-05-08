@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/acm-square.png
+image: images/munchy.png
 title: Manoa Munchies
 permalink: projects
 # All dates must be YYYY-MM-DD format!
