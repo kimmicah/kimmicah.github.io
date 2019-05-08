@@ -5,7 +5,7 @@ image: images/munchy.png
 title: Manoa Munchies
 permalink: projects
 # All dates must be YYYY-MM-DD format!
-date: 2017-08-21
+date: 2019-05-17
 labels:
   - Computer Programming
   - Community/Club
