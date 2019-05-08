@@ -10,7 +10,7 @@ labels:
   - Computer Programming
   - Community/Club
   - Cyber Security
-summary: Currently a member of ACM at University of Hawaii at Manoa.
+summary: A website designed...
 ---
 
 <img class="ui huge middle image" src="../images/acm.png">
