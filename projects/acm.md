@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/acm-square.png
 title: Association for Computing Machinery at Manoa (ACM Manoa)
-permalink: projects/micromouse
+permalink: projects/acm
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-21
 labels:
