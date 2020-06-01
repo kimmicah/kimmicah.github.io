@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/scarymazegame-square.png
 title: Scary Maze Game
-permalink: projects/vacay
+permalink: projects/smg
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-04
 labels:
