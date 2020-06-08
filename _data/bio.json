@@ -61,7 +61,6 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub"
       ]
     }
@@ -72,8 +71,8 @@
       "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
       "startDate": "2017-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2021-05-15",
+      "gpa": "3.56",
       "courses": [
       ]
     }
@@ -139,10 +138,10 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
