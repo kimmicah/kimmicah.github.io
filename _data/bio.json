@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Web Development",
+      "name": "Software Development",
       "keywords": [
       ]
     },
     {
-      "name": "Software/app Development",
+      "name": "Medicine",
       "keywords": [
       ]
     },
     {
-      "name": "Mobile App Development",
+      "name": "Radiology",
       "keywords": [
       ]
     }
@@ -97,9 +97,9 @@
       "organization": "Los Angeles Central Korean SDA",
       "website": "http://lakasda.com/",
       "position": "VBS Teacher",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "",
       "highlights": [
         " "
       ]
