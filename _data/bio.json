@@ -46,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Programming Toolsets/OS",
       "level": "",
       "keywords": [
         "MacOS",
@@ -101,34 +101,40 @@
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        " "
+      ]
+    },
+    {
+      "organization": "KAYAMM",
+      "website": "https://kayamm.com/",
+      "position": "Activities Coordinator",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        " "
       ]
     },
     {
       "organization": "KAYAMM",
       "website": "https://kayamm.com/",
       "position": "Teacher",
-      "startDate": "",
+      "startDate": "2017",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        " "
       ]
     },
     {
-      "organization": "KAYAMM",
-      "website": "https://kayamm.com/",
+      "organization": "Honolulu Korean SDA",
+      "website": "https://koreanhi.adventistchurch.org/",
       "position": "Teacher",
-      "startDate": "2015", "2017",
-      "endDate": "",
+      "startDate": "2017",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
