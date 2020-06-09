@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Bio Sketch
+title: Bio Sketch
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-20
 labels:
