@@ -68,7 +68,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2021)",
+      "area": "Computer Science",
       "studyType": "Bachelor of Science",
       "startDate": "2017-09-01",
       "endDate": "2021-05-15",
@@ -94,9 +94,9 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
+      "organization": "Los Angeles Central Korean SDA",
+      "website": "http://lakasda.com/",
+      "position": "VBS Teacher",
       "startDate": "2016-01-01",
       "endDate": "Present",
       "summary": "Lead developer for weather sensing project",
@@ -106,10 +106,23 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "organization": "KAYAMM",
+      "website": "https://kayamm.com/",
+      "position": "Teacher",
       "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "KAYAMM",
+      "website": "https://kayamm.com/",
+      "position": "Teacher",
+      "startDate": "2015", "2017",
       "endDate": "",
       "summary": "",
       "highlights": [
