@@ -6,9 +6,9 @@
     "email": "kimmicah@hawaii.edu",
     "phone": "626-733-7317",
     "website": "https://kimmicah.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021 .",
+    "summary": "I have received a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii in Spring, 2021.",
     "location": {
-      "address": "2949 Ala Ilima St Apt 604",
+      "address": "5080 Likini St Apt 918",
       "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -42,6 +42,11 @@
       "name": "Radiology",
       "keywords": [
       ]
+    },
+    {
+      "name": "Business",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -61,9 +66,11 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Git/GitHub",
         "IntelliJ Idea",
-        "Eclipse"
+        "Eclipse",
+        "Visual Studio Code"
       ]
     }
   ],
@@ -74,7 +81,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2017-09-01",
       "endDate": "2021-05-15",
-      "gpa": "3.56",
+      "gpa": "3.62",
       "courses": [
       ]
     },
